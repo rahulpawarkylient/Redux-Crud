@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Rahul Pawar",
+      "email": "rahul@gmail.com",
+      "contact": "+919826563047",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Vishal Pawar",
+      "email": "vishal@gmail.com",
+      "role": "manager",
+      "contact": "+919826563007"
+    },
+    {
+      "id": 3,
+      "name": "Avinash Pawar",
+      "email": "avi@gmail.com",
+      "role": "user",
+      "contact": "+919826563000"
+    },
+    {
+      "id": 5,
+      "name": "Aatish Pawar",
+      "email": "aatish@gmail.com",
+      "contact": "+919826563009",
+      "role": "staff"
+    }
+  ]
+}
